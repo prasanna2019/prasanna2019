@@ -12,6 +12,7 @@ with recent work on blockchain datasets and cloud warehouses.
 - Python, SQL
 - BigQuery, dbt
 - Airflow
+- Dune
 - Ethereum RPC / Web3 APIs
 
 📫 Reach me: prasannachat@gmail.com
