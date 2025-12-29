@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Prasanna 👋
 
-<!--
-**prasanna2019/prasanna2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Engineer focused on building reliable analytics and data pipelines,
+with recent work on blockchain datasets and cloud warehouses.
 
-Here are some ideas to get you started:
+### What I work on
+- Blockchain data ingestion (Ethereum RPC, logs, transactions)
+- Analytics engineering (BigQuery, dbt, SQL)
+- Production pipelines (Python, orchestration, retries, logging)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+- Python, SQL
+- BigQuery, dbt
+- Airflow
+- Ethereum RPC / Web3 APIs
+
+📫 Reach me: prasannachat@gmail.com
