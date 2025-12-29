@@ -1,6 +1,7 @@
 ## Hi, I'm Prasanna 👋
 
 I'm a Data Engineer focused on building reliable analytics and data pipelines,
+leveraging AI/GenAI tools to accelerate development, debugging, and design,
 with recent work on blockchain datasets and cloud warehouses.
 
 ### What I work on
