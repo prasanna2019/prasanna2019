@@ -7,12 +7,12 @@ with recent work on blockchain datasets and cloud warehouses.
 ### What I work on
 - Blockchain data ingestion (Ethereum RPC, logs, transactions)
 - Analytics engineering (BigQuery, dbt, SQL)
-- Production pipelines (Python, orchestration, retries, logging)
+- BAckend Engineering (Python, FASTAPI, PostgreSQL, API)
 
 ### Tech stack
 - Python, SQL
 - BigQuery, dbt
-- Airflow
+- Celery, Redis
 - Dune
 - Ethereum RPC / Web3 APIs
 
